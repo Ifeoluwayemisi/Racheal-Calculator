@@ -11,6 +11,7 @@
   "license": "ISC",
   "description": "A calculator using custom modules to implement basic arithenetics function",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "prompt-sync": "^4.2.0"
   }
 }
